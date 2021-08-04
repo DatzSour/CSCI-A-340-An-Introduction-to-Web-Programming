@@ -1,0 +1,13 @@
+table {border: 1px solid red;}
+tr {border-top: 1px solid red;}
+tr + tr {border-top: 1px solid red;
+}
+
+td {
+    border-left: 1px solid #000;
+}
+
+td + td {
+    border-left: 1px solid red;
+}
+It's

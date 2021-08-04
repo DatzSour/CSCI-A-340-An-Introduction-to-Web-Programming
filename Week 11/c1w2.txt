@@ -1,0 +1,7 @@
+1. print page
+2. current window display width
+3. blank page that reads "Erasing the Current Web Page"
+4. returns URL of current page
+5. puts hotel in all caps
+6. gives a random number/answer
+7. random number multiplied by ten

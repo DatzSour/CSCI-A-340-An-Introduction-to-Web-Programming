@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>My First HTML5 Web Page for CSCI-A 340</title>
+<meta charset="utf-8">
+</head>
+<body>
+Hello World! I am using {Notepad++}. 
+</body>
+</html>

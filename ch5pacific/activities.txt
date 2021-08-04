@@ -1,0 +1,48 @@
+ <!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>Pacific Trails Resort :: Acitivites</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="pacific.css">
+</head>
+
+<body>
+
+<header>
+	<h1>Pacific Trails Resort</h1>
+</header>
+
+<nav>
+	<b>
+	<a href="index.html">Home</a> &nbsp; 
+	<a href="yurts.html">Yurts</a> &nbsp; 
+	<a href="activities.html">Activities</a> &nbsp; 
+	<a href="reservations.html"></a>Reservations
+	</b>
+</nav>
+
+<main>
+	<h2>Activities at Pacific Trails</h2>
+	<a href="activities.html"><img src="trail.jpg"
+	alt="Activities" width="90" height="35"</a>
+	<br>
+	<h3>
+		<strong>Hiking</strong><br>
+		Pacific Trails Resort has 5 miles of hiking trails and is adjacent to a state park. Go it alone or join one of our guided hikes.<br>
+		<strong>Kayaking</strong><br>
+		Ocean kayaks are available for guest use.<br>
+		<strong>Bird Watching</strong><br>
+		While anytime is a good time for bird watching at Pacific Trails, we offer guided birdwatching trips at sunrise several times a week.
+	</h3>
+	
+</main>
+<br>
+
+<footer>
+	Copyright &copy; 2018 Pacific Trail<br>
+	<a href="mailto:autumn@neil.com">autumn@neil.com</a>
+</footer>
+	
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>A340 Exam Part 2</title>
+<meta charset="utf-8">
+<link href="exam.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div id="wrapper">
+
+<header>
+A Page for A348 Exam
+</header>
+
+<nav>
+Home &nbsp; Products &nbsp; Services &nbsp; About &nbsp; Contact
+</nav>
+
+<div id="content">
+<ul>
+<li>Coffee and Tea</li>
+<li>Bagels, Muffins and Organic Snacks</li>
+<li>Music and Poetry Readings</li>
+<li>Web Development Team</li>
+<li>Computer Programming Club
+</ul>
+</div>
+
+<footer>
+This page was created by firstname lastname. 
+</footer>
+
+</div>
+
+</body>
+
+</html>
